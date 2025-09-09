@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clara Dantas Moura</h1>
-<h3 align="center">M.Sc. in Biological and Chemical Engineering🌟.</h3>
+<h3 align="center">PhD Student in Chemical and Biological Engineering🌟.</h3>
 
 <!--<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
